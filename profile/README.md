@@ -13,7 +13,7 @@
 
 # Welcome
 
-_Welcome to the one and only Bitcoin Builders Wiki!_
+_Welcome to the one and only Bitcoin Builders GitHub!_
 
 _Thank you for being interested in our mission!_
 
