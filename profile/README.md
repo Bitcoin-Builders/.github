@@ -43,8 +43,8 @@ Join our meetings. They are lots of fun, and our group is friendly and inclusive
   - [sBTC GitHub Project Board](https://tinyurl.com/sbtc-project-board)
   - [Better Blocks GitHub Project Board](https://github.com/orgs/stacks-network/projects/59)
 
-  - Bitcoin Builders Discord - [Invite Link](https://tmurl.net/bb-discord)
-  - Bitcoin Builders Slack - [Signup Link](https://join.slack.com/t/bitcoin-builders/signup)
+  - Bitcoin Builders Discord - [Invite Link](https://tinyurl.com/bb-discord-invite)
+  - Bitcoin Builders Slack - [Signup Link](https://tinyurl.com/bb-slack-invite)
 
 ## Join
 Join this first
