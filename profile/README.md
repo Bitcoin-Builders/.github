@@ -43,6 +43,12 @@ Join our meetings. They are lots of fun, and our group is friendly and inclusive
   - [sBTC GitHub Project Board](https://tinyurl.com/sbtc-project-board)
   - [Better Blocks GitHub Project Board](https://github.com/orgs/stacks-network/projects/59)
 
+  - Stacks Grants
+    - [CB-2Q23-04.1-sbtc-web-signer](https://github.com/Bitcoin-Builders/CB-2Q23-04.1-sbtc-web-signer)
+    - [CB-2Q23-04.2-Stacks-Signer-Android](https://github.com/Bitcoin-Builders/CB-2Q23-04.2-Stacks-Signer-Android)
+    - [CB-2Q23-03.3-Stacks-sBTC-Electrum](https://github.com/Bitcoin-Builders/CB-2Q23-03.3-Stacks-sBTC-Electrum)
+    - [CB-2Q23-05.1-Stacks-Nakamoto-Block-Simulator](https://github.com/Bitcoin-Builders/CB-2Q23-05.1-Stacks-Nakamoto-Block-Simulator)
+
   - Bitcoin Builders Discord - [Link](https://tinyurl.com/bb-linen)
   - Bitcoin Builders Slack - [Signup Link](https://tinyurl.com/bb-slack-invite)
 
