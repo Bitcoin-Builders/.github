@@ -13,13 +13,13 @@
 
 # Welcome
 
-_Welcome to the one and only Bitcoin Builders GitHub!_
+_Welcome to the Stacks Development GitHub!_
 
 _Thank you for being interested in our mission!_
 
 _If we want to win, we don't just need to work hard and smart but inspire others to join us in our mission._
 
-_Join us, and let's build the future of Bitcoin together!_
+_Join us, and let's build the future of Stacks and Bitcoin together!_
 
 ## Learn
 - What is sBTC? Learn about sBTC [here](https://sbtc.tech)
@@ -44,13 +44,12 @@ Join our meetings. They are lots of fun, and our group is friendly and inclusive
   - [Better Blocks GitHub Project Board](https://github.com/orgs/stacks-network/projects/59)
 
   - Stacks Grants
-    - [CB-2Q23-04.1-sbtc-web-signer](https://github.com/Bitcoin-Builders/CB-2Q23-04.1-sbtc-web-signer)
-    - [CB-2Q23-04.2-Stacks-Signer-Android](https://github.com/Bitcoin-Builders/CB-2Q23-04.2-Stacks-Signer-Android)
-    - [CB-2Q23-03.3-Stacks-sBTC-Electrum](https://github.com/Bitcoin-Builders/CB-2Q23-03.3-Stacks-sBTC-Electrum)
-    - [CB-2Q23-05.1-Stacks-Nakamoto-Block-Simulator](https://github.com/Bitcoin-Builders/CB-2Q23-05.1-Stacks-Nakamoto-Block-Simulator)
+    - [CB-2Q23-04.1-sbtc-web-signer](https://github.com/stacks-dev/CB-2Q23-04.1-sbtc-web-signer)
+    - [CB-2Q23-04.2-Stacks-Signer-Android](https://github.com/stacks-dev/CB-2Q23-04.2-Stacks-Signer-Android)
+    - [CB-2Q23-03.3-Stacks-sBTC-Electrum](https://github.com/stacks-dev/CB-2Q23-03.3-Stacks-sBTC-Electrum)
+    - [CB-2Q23-05.1-Stacks-Nakamoto-Block-Simulator](https://github.com/stacks-dev/CB-2Q23-05.1-Stacks-Nakamoto-Block-Simulator)
 
-  - Bitcoin Builders Discord - [Link](https://tinyurl.com/bb-linen)
-  - Bitcoin Builders Slack - [Signup Link](https://tinyurl.com/bb-slack-invite)
+  - [Stacks Eng Slack](https://stacks-eng.slack.com/) - [Signup Link](https://join.slack.com/t/stacks-eng/shared_invite/zt-1xncqmgl2-YxOmFZTlpqYub43GOQOkpw)
 
 ## Join
 Join this first
@@ -68,4 +67,4 @@ Join these later
 - [sBTC Eng Stakeholders](https://groups.google.com/a/trustmachines.co/g/sbtc-eng-stakeholders)
 - [sBTC Eng Users](https://groups.google.com/a/trustmachines.co/g/sbtc-users)
 
-If you have issues, comment [here](https://github.com/orgs/Bitcoin-Builders/discussions/1)
+If you have issues, comment [here](https://github.com/orgs/stacks-dev/discussions/1)
