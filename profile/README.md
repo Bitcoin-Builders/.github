@@ -49,7 +49,7 @@ Join our meetings. They are lots of fun, and our group is friendly and inclusive
     - [CB-2Q23-03.3-Stacks-sBTC-Electrum](https://github.com/stacks-dev/CB-2Q23-03.3-Stacks-sBTC-Electrum)
     - [CB-2Q23-05.1-Stacks-Nakamoto-Block-Simulator](https://github.com/stacks-dev/CB-2Q23-05.1-Stacks-Nakamoto-Block-Simulator)
 
-  - [Stacks Eng Slack](https://stacks-eng.slack.com/) - [Signup Link](https://join.slack.com/t/stacks-eng/shared_invite/zt-1xncqmgl2-YxOmFZTlpqYub43GOQOkpw)
+  - [Stacks Eng Slack](https://stacks-eng.slack.com/) - [Signup Link](https://tinyurl.com/stacks-eng-slack-invite)
 
 ## Join
 Join this first
