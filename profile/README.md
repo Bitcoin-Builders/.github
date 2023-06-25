@@ -13,7 +13,7 @@
 
 # Welcome
 
-_Welcome to the Stacks Development GitHub!_
+_Welcome to the Stacks Builders GitHub!_
 
 _Thank you for being interested in our mission!_
 
@@ -29,14 +29,14 @@ _Join us, and let's build the future of Stacks and Bitcoin together!_
 
 Join our meetings. They are lots of fun, and our group is friendly and inclusive!
   - Google Calendars. Events changes take effect immediately.
-    - [Bitcoin Builders Public Calendar](https://calendar.google.com/calendar/embed?src=public-eng%40trustmachines.co)
+    - [Stacks Builders Public Calendar](https://calendar.google.com/calendar/embed?src=public-eng%40trustmachines.co)
     - [Add the calendar to your Google Account](https://calendar.google.com/calendar/u/0?cid=cHVibGljLWVuZ0B0cnVzdG1hY2hpbmVzLmNv)
 
   - AddEvent replication of Google Calendar for compatibility. Events changes take 12 hours to reflect here.
-    - [Bitcoin Builders Calendar - Updates](https://www.addevent.com/calendar/FB548168)
-    - [Bitcoin Builders Calendar - Details](https://www.addevent.com/calendar/am603330)
+    - [Stacks Builders Calendar - Updates](https://www.addevent.com/calendar/FB548168)
+    - [Stacks Builders Calendar - Details](https://www.addevent.com/calendar/am603330)
  
-  - [Bitcoin Builders Google Shared Drive](https://drive.google.com/drive/u/0/folders/0ACUv2Ii0C5gNUk9PVA).
+  - [Stacks Builders Google Shared Drive](https://drive.google.com/drive/u/0/folders/0ACUv2Ii0C5gNUk9PVA).
     - You need to join this mailing list to gain access: [sBTC Eng Working Group](https://groups.google.com/a/trustmachines.co/g/sbtc-eng-wg)
     - [sBTC Eng Meetings Notes](https://docs.google.com/document/d/1m4ROTYvgZhTJxbMY7NaI8N2sk5chbEm9SWEIE_Ewuy0)
 
@@ -49,7 +49,7 @@ Join our meetings. They are lots of fun, and our group is friendly and inclusive
     - [CB-2Q23-03.3-Stacks-sBTC-Electrum](https://github.com/stacks-dev/CB-2Q23-03.3-Stacks-sBTC-Electrum)
     - [CB-2Q23-05.1-Stacks-Nakamoto-Block-Simulator](https://github.com/stacks-dev/CB-2Q23-05.1-Stacks-Nakamoto-Block-Simulator)
 
-  - [Stacks Eng Slack](https://stacks-eng.slack.com/) - [Signup Link](https://tinyurl.com/stacks-eng-slack-invite)
+  - [Stacks Builders Slack](https://stacks-eng.slack.com/) - [Signup Link](https://tinyurl.com/stacks-eng-slack-invite)
 
 ## Join
 Join this first
