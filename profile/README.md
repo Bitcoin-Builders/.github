@@ -36,9 +36,9 @@ Join our meetings. They are lots of fun, and our group is friendly and inclusive
     - [Stacks Builders Calendar - Updates](https://www.addevent.com/calendar/FB548168)
     - [Stacks Builders Calendar - Details](https://www.addevent.com/calendar/am603330)
  
-  - [Stacks Builders Google Shared Drive](https://drive.google.com/drive/u/0/folders/0ACUv2Ii0C5gNUk9PVA).
-    - You need to join this mailing list to gain access: [sBTC Eng Working Group](https://groups.google.com/a/trustmachines.co/g/sbtc-eng-wg)
-    - [sBTC Eng Meetings Notes](https://docs.google.com/document/d/1m4ROTYvgZhTJxbMY7NaI8N2sk5chbEm9SWEIE_Ewuy0)
+    - You need to join this mailing list to gain access: [sBTC Eng Working Group](https://groups.google.com/a/trustmachines.co/g/sbtc-eng-wg) to the following:
+      - [Stacks Builders Google Shared Drive](https://drive.google.com/drive/u/0/folders/0ACUv2Ii0C5gNUk9PVA).
+      - [sBTC Eng Meetings Notes](https://docs.google.com/document/d/1m4ROTYvgZhTJxbMY7NaI8N2sk5chbEm9SWEIE_Ewuy0)
 
   - [sBTC GitHub Project Board](https://tinyurl.com/sbtc-project-board)
   - [Better Blocks GitHub Project Board](https://github.com/orgs/stacks-network/projects/59)
