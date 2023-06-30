@@ -33,10 +33,12 @@ Join our meetings. They are lots of fun, and our group is friendly and inclusive
     - [Add the calendar to your Google Account](https://calendar.google.com/calendar/u/0?cid=cHVibGljLWVuZ0B0cnVzdG1hY2hpbmVzLmNv)
 
   - AddEvent replication of Google Calendar for compatibility. Events changes take 12 hours to reflect here.
-    - [Stacks Builders Calendar - Updates](https://www.addevent.com/calendar/FB548168)
-    - [Stacks Builders Calendar - Details](https://www.addevent.com/calendar/am603330)
+    - [Stacks Builders Calendar - Updates Only](https://www.addevent.com/calendar/FB548168)
+    - [Stacks Builders Calendar - All Meetings](https://www.addevent.com/calendar/am603330)
+
+  - [Stacks Builders Slack](https://stacks-eng.slack.com/) - [Signup Link](https://tinyurl.com/stacks-eng-slack-invite)
  
-  - You need to join this mailing list to gain access: [sBTC Eng Working Group](https://groups.google.com/a/trustmachines.co/g/sbtc-eng-wg) to the following:
+  - You need to join the [sBTC Eng Working Group](https://groups.google.com/a/trustmachines.co/g/sbtc-eng-wg) to gain access to the following:
     - [Stacks Builders Google Shared Drive](https://drive.google.com/drive/u/0/folders/0ACUv2Ii0C5gNUk9PVA).
     - [sBTC Eng Meetings Notes](https://docs.google.com/document/d/1m4ROTYvgZhTJxbMY7NaI8N2sk5chbEm9SWEIE_Ewuy0)
 
@@ -49,11 +51,8 @@ Join our meetings. They are lots of fun, and our group is friendly and inclusive
     - [CB-2Q23-03.3-Stacks-sBTC-Electrum](https://github.com/stacks-dev/CB-2Q23-03.3-Stacks-sBTC-Electrum)
     - [CB-2Q23-05.1-Stacks-Nakamoto-Block-Simulator](https://github.com/stacks-dev/CB-2Q23-05.1-Stacks-Nakamoto-Block-Simulator)
 
-  - [Stacks Builders Slack](https://stacks-eng.slack.com/) - [Signup Link](https://tinyurl.com/stacks-eng-slack-invite)
-
 ## Join
 Join this first
-
 - [sBTC Eng Working Group](https://groups.google.com/a/trustmachines.co/g/sbtc-eng-wg)
 
 Join these later
